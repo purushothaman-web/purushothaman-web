@@ -39,11 +39,7 @@
 
 <a href="https://instagram.com/n_a_r_e_s_h_7">
   <img src="https://skillicons.dev/icons?i=instagram&theme=light" height="40" alt="Instagram" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
-
-<a href="https://linkedin.com/in/purushothaman-r-web-dev">
-  <img src="https://skillicons.dev/icons?i=linkedin&theme=light" height="40" alt="LinkedIn" />
-</a>&nbsp;&nbsp;&nbsp;&nbsp;
+</a>&nbsp;&nbsp;&nbsp;&nbsp
 
 <a href="mailto:rpurushothaman500@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail&theme=light" height="40" alt="Gmail" />
