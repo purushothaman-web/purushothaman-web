@@ -1,52 +1,38 @@
 <div align="center">
 
 # Purushothaman R
-**Full Stack Developer** • *Bangalore, KA*
+**Full Stack Developer** • Bangalore, India
+
+Building scalable backend systems, robust APIs, and contributing to open-source software.
+
+`TypeScript` &nbsp;•&nbsp; `Node.js` &nbsp;•&nbsp; `React` &nbsp;•&nbsp; `PostgreSQL` &nbsp;•&nbsp; `Prisma` &nbsp;•&nbsp; `Redis`
 
 <br/>
 
-> *"Developing the hidden logic that powers seamless user experiences."*
+[Website](https://purushoth.is-a.dev) &nbsp;|&nbsp; [Email](mailto:rpurushothaman500@gmail.com)
 
 <br/>
 
 ---
 
-### ✦ Expertise
+### Open Source Contributions
 
-`TypeScript` `JavaScript` `React` `Tailwind CSS` `Framer Motion` <br/>
-`Node.js` `Express` `PostgreSQL` `MongoDB` `Prisma` `Redis`
+| Repository | Pull Request | Contribution |
+| :--- | :---: | :--- |
+| **[documenso / documenso](https://github.com/documenso/documenso)** | [#3620](https://github.com/documenso/documenso/pull/3620) | Prevented doubled `.pdf` extension on completion email attachments |
+| **[Cotal-AI / Cotal](https://github.com/Cotal-AI/Cotal)** | [#8706](https://github.com/Cotal-AI/Cotal/pull/8706), [#8646](https://github.com/Cotal-AI/Cotal/pull/8646) | Quoted root paths in CLI retry; optimized connector space selection |
+| **[laaielichter / AgentHaven](https://github.com/laaielichter/AgentHaven)** | [#149](https://github.com/laaielichter/AgentHaven/pull/149) | Mitigated ReDoS vulnerability in database connection string validator |
 
 ---
 
-### ✉ Connect
+### Featured Work
 
-[Email](mailto:rpurushothaman500@gmail.com) &nbsp; | &nbsp; [Portfolio 2.0](https://github.com/purushothaman-web/portfolio-2.0)
+| Project | Stack | Description | Links |
+| :--- | :--- | :--- | :---: |
+| **DevDesk** | `Node.js` `Express` `PostgreSQL` | Multi-tenant SaaS support platform with organization-isolated RBAC. | [Code](https://github.com/purushothaman-web/DevDesk) • [Live](https://devdesk-ui.vercel.app/) |
+| **JobTrackr** | `React` `Node.js` `PostgreSQL` | Application tracking CRM with JWT authentication and automated email reminders. | [Code](https://github.com/purushothaman-web/JobTrackr) • [Live](https://jobtrackr-silk.vercel.app/) |
+| **ThiraiView** | `React` `Tailwind` `TMDB API` | Media discovery engine with server-side caching and dynamic catalog curation. | [Code](https://github.com/purushothaman-web/ThiraiView) • [Live](https://thiraiview.vercel.app/) |
 
-<br/>
 <br/>
 
 </div>
-
-### 📂 Featured Work
-
-<br/>
-
-**1. [DevDesk](https://devdesk-ui.vercel.app/)** — *Multi-Tenant SaaS Helpdesk* <br/>
-A scalable Node.js/Express backend with Prisma and PostgreSQL implementing secure Role-Based Access Control (RBAC) across multiple tiers to isolate organizational B2B support tickets.
-* [`Repo`](https://github.com/purushothaman-web/DevDesk) • [`Live Site`](https://devdesk-ui.vercel.app/)
-
-<br/>
-
-
-**2. [JobTrackr](https://jobtrackr-silk.vercel.app/)** — *Career Management CRM* <br/>
-A specialized CRM for applicants utilizing secure JWT auth, structured PostgreSQL relational tables for progress tracking, and scheduled cron jobs for automated follow-up email reminders.
-* [`Repo`](https://github.com/purushothaman-web/JobTrackr) • [`Live Site`](https://jobtrackr-silk.vercel.app/)
-
-<br/>
-
-**3. [ThiraiView](https://thiraiview.vercel.app/)** — *Dynamic Media Discovery* <br/>
-Integrated complex external data fetching from TMDB APIs with custom backend caching strategies and analytical aggregation to power hyper-personalized film curation features.
-* [`Repo`](https://github.com/purushothaman-web/ThiraiView) • [`Live Site`](https://thiraiview.vercel.app/)
-
-<br/>
-<br/>
