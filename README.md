@@ -20,7 +20,6 @@ Building scalable backend systems, robust APIs, and contributing to open-source 
 | Repository | Pull Request | Contribution |
 | :--- | :---: | :--- |
 | **[pinojs / pino](https://github.com/pinojs/pino)** | [#2567](https://github.com/pinojs/pino/pull/2567) | Avoided source-map parsing overhead in `caller()` & skipped resolution when no transport is configured |
-| **[honojs / middleware](https://github.com/honojs/middleware)** | [#2280](https://github.com/honojs/middleware/pull/2280) | Fixed RSS metadata misalignment on parameterized (`ssgParams`), non-HTML, and `disableSSG` routes |
 | **[reticlehq / reticle](https://github.com/reticlehq/reticle)** | [#2465](https://github.com/reticlehq/reticle/pull/2465), [#2415](https://github.com/reticlehq/reticle/pull/2415) | Fixed inconclusive step verdict reporting & added tolerance handling to claim descriptions |
 | **[documenso / documenso](https://github.com/documenso/documenso)** | [#3620](https://github.com/documenso/documenso/pull/3620) | Prevented doubled `.pdf` extension on completion email attachments |
 | **[Cotal-AI / Cotal](https://github.com/Cotal-AI/Cotal)** | [#8706](https://github.com/Cotal-AI/Cotal/pull/8706), [#8646](https://github.com/Cotal-AI/Cotal/pull/8646) | Quoted root paths in CLI retry; optimized connector space selection |
